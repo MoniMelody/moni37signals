@@ -233,13 +233,11 @@ sup {
  * HORIZONTAL LINE IMAGE NOT SHOWING UP IN BROWSER
  */
 hr {
-    background: url('img/img-hr.png') no-repeat 50% 50%;
-    margin-top: 0.1em;
-    margin-bottom: 0.1em;
-    margin-left: auto;
-    margin-right: auto;
-    border-style: inset;
-    border-width: 0.5px;
+    background: url("../img/img-hr.png") no-repeat scroll 50% 50% #FFF;
+    clear: both;
+    border: 0px none;
+    color: transparent;
+    height: 12px;
 } 
 
 /*
@@ -272,7 +270,7 @@ section {
     display: block;
     width: 143px;
     height: 104px;
-    background: url("img/img-customers.png") no-repeat scroll 0px 0px transparent;
+    background: url("../img/img-customers.png") no-repeat scroll 0px 0px transparent;
     text-indent: -1000em;
 }
 a {
@@ -332,13 +330,7 @@ a {
  * HORIZONTAL LINE IMAGE NOT SHOWING UP IN BROWSER
  */
 
-hr {
-    background: url("img-hr.png") no-repeat scroll 50% 50% #FFF;
-    clear: both;
-    border: 0px none;
-    color: transparent;
-    height: 12px;
-}
+
 /*
  * SECTION C
  */
@@ -441,13 +433,7 @@ section {
 /*
  * HORIZONTAL LINE IMAGE NOT SHOWING UP IN BROWSER
  */
-hr {
-    background: url("img-hr.png") no-repeat scroll 50% 50% #FFF;
-    clear: both;
-    border: 0px none;
-    color: transparent;
-    height: 12px;
-}
+
 
 /*
  * SECTION D
@@ -543,13 +529,7 @@ a {
 /*
  * HORIZONTAL LINE IMAGE NOT SHOWING UP IN BROWSER
  */
-hr {
-    background: url("img/img-hr.png") no-repeat scroll 50% 50% #FFF;
-    clear: both;
-    border: 0px none;
-    color: transparent;
-    height: 12px;
-}
+
 /*
  * SECTION E
  */
@@ -689,13 +669,6 @@ sup {
 /*
  * HORIZONTAL LINE IMAGE NOT SHOWING UP IN BROWSER
  */
-hr {
-    background: url("img-hr.png") no-repeat scroll 50% 50% #FFF;
-    clear: both;
-    border: 0px none;
-    color: transparent;
-    height: 12px;
-}
 
 /*
  * FOOTER
